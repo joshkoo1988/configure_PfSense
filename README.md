@@ -5,7 +5,7 @@ Coming soon a full guide on configuring various things on PfSense.
 This guide will pick up where my fresh install guide left off.
 <br/>
 
-<h2>Router & Firewall</h2>
+<h2>Firewall</h2>
 - <b>PfSense</b>
 
 <h2>apps</h2>
