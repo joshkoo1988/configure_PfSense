@@ -11,7 +11,6 @@ This guide will pick up where my fresh install guide left off.
 <h2>apps</h2>
 - <b>HAProxy</b>
 - <b>ACME</b>
-- <b>HAProxy</b>
 
 <h2>Domain & DNS</h2>
 - <b>GoDaddy Domain</b>
