@@ -9,9 +9,10 @@ This guide will be a basic walk through of some of things I like to set up on a 
 
 <h2>Program walk-through:</h2>
 
-1. First we will be setting up a new user and password just for security purposes.
-  - Select...
-  - then ...
+1. [First we will be setting up a new user and password just for security purposes.](https://docs.netgate.com/pfsense/en/latest/usermanager/users.html)
+  - Navigate to System -> User Manager
+  - Click on ADD
+  - then ....
 
 2. Second we will be setting up your subnet mask range for most 255.255.255.0 should be enough which will provide you with 253 useable IP's in your IP range
   - Select...
